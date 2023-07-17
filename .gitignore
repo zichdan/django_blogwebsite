@@ -1,0 +1,4 @@
+git /blogenv     
+env
+.env
+__pycache__
